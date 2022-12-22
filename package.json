@@ -1,0 +1,20 @@
+{
+  "name": "week10",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nitipatpirate/cir2-IOT-week10-2565.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nitipatpirate/cir2-IOT-week10-2565/issues"
+  },
+  "homepage": "https://github.com/nitipatpirate/cir2-IOT-week10-2565#readme"
+}
